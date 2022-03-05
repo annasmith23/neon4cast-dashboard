@@ -18,4 +18,8 @@ combined_scores <- function(x = NULL, collect = TRUE){
     ds <- ds %>% collect()
   }
   ds
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> d3398fdf2302129961d128dbbf1137ea1dcb9828
